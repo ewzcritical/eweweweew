@@ -1,0 +1,13 @@
+{
+  "token": "MTA4NzM5NDM4NDg5NjYxMDMwNA.Gg55aD.8hXenjVFPIIaIcpsVwHkVUy3_vgIV9r0ypqqOc",
+  "guild_id": 1104907885558911048,
+  "category_id": 1135705478001864714,
+  "log_channel_id": 1104961403837751316,
+  "helper_role_id": 1104954144143446017,
+  "mod_role_id": 1104916341695201330,
+  "bot_owner_id": 1035349516641116301,
+  "prefix": "$",
+  "open_message": "open_message",
+  "close_message": "close_message",
+  "anonomyous_tickets": false
+}
